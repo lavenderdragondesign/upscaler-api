@@ -1,3 +1,0 @@
-flask
-realesrgan
-opencv-python
